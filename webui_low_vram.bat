@@ -50,7 +50,7 @@ set ACCELERATE="%VENV_DIR%\Scripts\accelerate.exe"
 if EXIST %ACCELERATE% goto :accelerate_launch
 
 :launch
-%PYTHON% launch.py %* --api --skip-torch-cuda-test
+%PYTHON% launch.py %* --api --skip-torch-cuda-test --lowvram
 pause
 exit /b
 
