@@ -3,22 +3,20 @@ import sys
 
 
 if len(sys.argv) < 3:
-    print("Usage: python split.py <big_zip_file> <parts>")
+    print("Usage: python split.py <big_zip_file>")
     sys.exit(1)
 
 
 big_zip_file = sys.argv[1]
-parts = int(sys.argv[2])
-
-if parts < 2:
-    print("Parts must be at least 2")
-    sys.exit(1)
 
 if not os.path.exists(big_zip_file):
     print("File not found: " + big_zip_file)
     sys.exit(1)
 
 file_size = os.path.getsize(big_zip_file)
+
+parts = file_size // 41943040
+
 part_size = file_size // parts
 remainder = file_size % parts
 
