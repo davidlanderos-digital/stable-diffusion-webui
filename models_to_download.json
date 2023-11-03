@@ -1,0 +1,202 @@
+[
+    {
+        "url": "https://civitai.com/api/download/models/79754",
+        "path": "models/Stable-diffusion/cyberrealistic_v30.safetensors"
+    },
+    {
+        "url": "https://civitai.com/api/download/models/140174",
+        "path": "models/Stable-diffusion/cyberrealistic_v33-inpainting.safetensors"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/add_detail.safetensors",
+        "path": "models/Lora/add_detail.safetensors"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/cldm_v15.yaml",
+        "path": "extensions/sd-webui-controlnet/models/cldm_v15.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/cldm_v21.yaml",
+        "path": "extensions/sd-webui-controlnet/models/cldm_v21.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_canny-fp16.safetensors",
+        "path": "extensions/sd-webui-controlnet/models/control_canny-fp16.safetensors"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_depth-fp16.safetensors",
+        "path": "extensions/sd-webui-controlnet/models/control_depth-fp16.safetensors"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_hed-fp16.safetensors",
+        "path": "extensions/sd-webui-controlnet/models/control_hed-fp16.safetensors"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_mlsd-fp16.safetensors",
+        "path": "extensions/sd-webui-controlnet/models/control_mlsd-fp16.safetensors"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_normal-fp16.safetensors",
+        "path": "extensions/sd-webui-controlnet/models/control_normal-fp16.safetensors"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_openpose-fp16.safetensors",
+        "path": "extensions/sd-webui-controlnet/models/control_openpose-fp16.safetensors"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_scribble-fp16.safetensors",
+        "path": "extensions/sd-webui-controlnet/models/control_scribble-fp16.safetensors"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_sd15_canny.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_sd15_canny.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_sd15_depth.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_sd15_depth.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_sd15_hed.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_sd15_hed.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_sd15_mlsd.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_sd15_mlsd.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_sd15_normal.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_sd15_normal.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_sd15_openpose.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_sd15_openpose.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_sd15_scribble.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_sd15_scribble.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_sd15_seg.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_sd15_seg.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_seg-fp16.safetensors",
+        "path": "extensions/sd-webui-controlnet/models/control_seg-fp16.safetensors"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11e_sd15_ip2p.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11e_sd15_ip2p.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11e_sd15_shuffle.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11e_sd15_shuffle.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11f1e_sd15_tile.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11f1e_sd15_tile.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11f1p_sd15_depth.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11f1p_sd15_depth.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11p_sd15_canny.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11p_sd15_canny.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11p_sd15_inpaint.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11p_sd15_inpaint.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11p_sd15_lineart.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11p_sd15_lineart.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11p_sd15_mlsd.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11p_sd15_mlsd.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11p_sd15_normalbae.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11p_sd15_normalbae.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11p_sd15_openpose.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11p_sd15_openpose.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11p_sd15_scribble.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11p_sd15_scribble.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11p_sd15_seg.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11p_sd15_seg.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11p_sd15_softedge.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11p_sd15_softedge.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/control_v11p_sd15s2_lineart_anime.yaml",
+        "path": "extensions/sd-webui-controlnet/models/control_v11p_sd15s2_lineart_anime.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/image_adapter_v14.yaml",
+        "path": "extensions/sd-webui-controlnet/models/image_adapter_v14.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/sketch_adapter_v14.yaml",
+        "path": "extensions/sd-webui-controlnet/models/sketch_adapter_v14.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_canny-fp16.safetensors",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_canny-fp16.safetensors"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_canny_sd14v1.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_canny_sd14v1.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_canny_sd15v2.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_canny_sd15v2.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_color_sd14v1.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_color_sd14v1.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_depth_sd14v1.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_depth_sd14v1.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_depth_sd15v2.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_depth_sd15v2.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_keypose_sd14v1.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_keypose_sd14v1.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_openpose_sd14v1.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_openpose_sd14v1.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_seg_sd14v1.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_seg_sd14v1.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_sketch_sd14v1.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_sketch_sd14v1.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_sketch_sd15v2.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_sketch_sd15v2.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_style_sd14v1.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_style_sd14v1.yaml"
+    },
+    {
+        "url": "https://huggingface.co/david-landeros-digital/controlnet-models/resolve/main/t2iadapter_zoedepth_sd15v1.yaml",
+        "path": "extensions/sd-webui-controlnet/models/t2iadapter_zoedepth_sd15v1.yaml"
+    }
+]
