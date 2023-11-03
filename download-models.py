@@ -11,6 +11,9 @@ def dowloadFile(url, output_file_path):
     if os.path.exists(output_file_path):
         print(f"Downloaded 100% ({filename})")
         return
+    directory = os.path.dirname(output_file_path)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
     headers = {
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
         'accept-language': 'en-US,en;q=0.5',

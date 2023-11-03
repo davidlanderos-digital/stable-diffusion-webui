@@ -19,6 +19,7 @@ echo installing dependencies..
 %~dp0venv\Scripts\python.exe -m pip install svglib
 %~dp0venv\Scripts\python.exe -m pip install fvcore
 %~dp0venv\Scripts\python.exe -m pip install opencv-python
+%~dp0venv\Scripts\python.exe -m pip install requests
 
 echo downloading models...
 %~dp0venv\Scripts\python.exe %~dp0download-models.py
